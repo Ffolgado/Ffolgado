@@ -1,0 +1,14 @@
+{
+  "name": "pruebasjest",
+  "version": "1.0.0",
+  "description": "Onboarding",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Fatima",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}

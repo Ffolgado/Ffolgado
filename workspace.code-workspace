@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "../Onboarding/cypress"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {}
+}
